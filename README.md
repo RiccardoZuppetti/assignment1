@@ -16,7 +16,7 @@ The [robot.cpp](https://github.com/RiccardoZuppetti/assignment1/blob/main/src/ro
 ```
 git clone https://github.com/RiccardoZuppetti/assignment1.git
 ```
-2. Go to the root of the workspace, and from there launch `catkin_make`
+2. Go to the root of your catkin_ws, and from there launch `catkin_make`
 
 3. Start the ROS Master typing:
 ```
