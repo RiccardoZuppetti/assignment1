@@ -4,7 +4,7 @@ In particular, the robot asks to the user for a random target to be reached.
 Any of these random targets have coordinates -6 and 6 both along x and y.
 Established the target, the robot goes to this one and then asks for a new random target.
 # Structure of the package
-The package is composed of the two nodes:
+The package is composed of two nodes:
 * [robot.cpp](https://github.com/RiccardoZuppetti/assignment1/blob/main/src/robot.cpp)
 * [random_number.cpp](https://github.com/RiccardoZuppetti/assignment1/blob/main/src/random_number.cpp)
 
