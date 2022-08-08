@@ -44,10 +44,3 @@ rosrun assignment1 random_number
 ```
 rosrun assignment1 robot
 ```
-
-```
-nano ros.sh
-#!/bin/bash
-source /root/my_ros/devel/setup.bash
-```
-
